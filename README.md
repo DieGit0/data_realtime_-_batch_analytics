@@ -137,8 +137,8 @@ Ao final, um novo data catalog é disponibilizado e otimizado para consultas por
 ![image](https://github.com/user-attachments/assets/7d9967ae-d761-4a69-aadf-77653945c2df) <br>
 ![image](https://github.com/user-attachments/assets/b7d7ad66-ede5-4432-a610-61436618d571) <p>
 
-- #### 7. ETL Job: <p>
-![image](https://github.com/user-attachments/assets/1b16e20a-56e6-4d05-a634-bd6ab48d0eaf)
+- #### 7. ETL Job:
+![image](https://github.com/user-attachments/assets/1b16e20a-56e6-4d05-a634-bd6ab48d0eaf) <br>
 ![image](https://github.com/user-attachments/assets/fa508902-6d13-4755-800a-087615a75359) <br>
 ![image](https://github.com/user-attachments/assets/a2ca8a34-5d59-4dea-a5ed-4cba29ec9f36) <p>
 
